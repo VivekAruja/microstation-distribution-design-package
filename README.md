@@ -30,10 +30,6 @@ This project was created to strengthen practical skills relevant to utility Desi
 
 - Bentley MicroStation
 - Microsoft Excel
-- Microsoft PowerPoint
-- LaTeX
-- PDF drawing export
-
 ---
 
 ## Project Deliverables
