@@ -61,7 +61,6 @@ This project was created to strengthen practical skills relevant to utility Desi
 | Bentley MicroStation | Drawing production (DGN, PDF export) |
 | Microsoft Excel | Voltage drop, cable pull, and quantity takeoff calculations |
 | Microsoft Excel | Project record tracking and field verification checklist |
-| LaTeX | Final technical report compilation |
 
 ## Drawing Package
 
