@@ -76,27 +76,39 @@ This project was created to strengthen practical skills relevant to utility Desi
 
 ### E-000 Cover Sheet
 
-![Cover Sheet](drawings/exported-pdf/E-000-cover-sheet.png)
+![Cover Sheet](report/figures/E-000-cover-sheet.png)
+
+[Download full-resolution PDF](drawings/exported-pdf/E-000-cover-sheet.pdf)
 
 ### E-101 Existing Conditions Plan
 
-![Existing Conditions Plan](drawings/exported-pdf/E-101-existing-conditions-plan.png)
+![Existing Conditions Plan](report/figures/E-101-existing-conditions-plan.png)
+
+[Download full-resolution PDF](drawings/exported-pdf/E-101-existing-conditions-plan.pdf)
 
 ### E-102 Proposed Electrical-Civil Plan
 
-![Proposed Electrical-Civil Plan](drawings/exported-pdf/E-102-proposed-electrical-civil-plan.png)
+![Proposed Electrical-Civil Plan](report/figures/E-102-proposed-electrical-civil-plan.png)
+
+[Download full-resolution PDF](drawings/exported-pdf/E-102-proposed-electrical-civil-plan.pdf)
 
 ### E-201 Plan and Profile Drawing
 
-![Plan and Profile Drawing](drawings/exported-pdf/E-201-plan-profile-drawing.png)
+![Plan and Profile Drawing](report/figures/E-201-plan-profile-drawing.png)
+
+[Download full-resolution PDF](drawings/exported-pdf/E-201-plan-profile-drawing.pdf)
 
 ### E-301 Single-Line Diagram
 
-![Single-Line Diagram](drawings/exported-pdf/E-301-single-line-diagram.png)
+![Single-Line Diagram](report/figures/E-301-single-line-diagram.png)
+
+[Download full-resolution PDF](drawings/exported-pdf/E-301-single-line-diagram.pdf)
 
 ### E-401 Construction Details and Notes
 
-![Construction Details and Notes](drawings/exported-pdf/E-401-construction-details-notes.png)
+![Construction Details and Notes](report/figures/E-401-construction-details-notes.png)
+
+[Download full-resolution PDF](drawings/exported-pdf/E-401-construction-details-notes.pdf)
 
 ## Calculations
 
@@ -147,7 +159,7 @@ project-records/project-record-tracker.xlsx
 
 Tracks drawing numbers, drawing titles, revisions, PDF export status, and notes.
 
-![Project Record Tracker](project-records/project-record-tracker.png)
+![Project Record Tracker](report/figures/project-record-tracker.png)
 
 ### Field Verification Checklist
 
@@ -159,7 +171,7 @@ field-verification/field-verification-checklist.xlsx
 
 Identifies items requiring confirmation before design or construction decisions, including transformer location, service entrance location, pull box location, route measurements, existing utility conflicts, and road/sidewalk constraints.
 
-![Field Verification Checklist](field-verification/field-verification-checklist.png)
+![Field Verification Checklist](report/figures/field-verification-checklist.png)
 
 ## Problems Encountered
 
@@ -217,7 +229,16 @@ microstation-distribution-design-package/
 │   └── public-reference-notes.md
 │
 └── report/
-    └── microstation_distribution_design_package_report.pdf
+    ├── microstation_distribution_design_package_report.pdf
+    └── figures/
+        ├── E-000-cover-sheet.png
+        ├── E-101-existing-conditions-plan.png
+        ├── E-102-proposed-electrical-civil-plan.png
+        ├── E-201-plan-profile-drawing.png
+        ├── E-301-single-line-diagram.png
+        ├── E-401-construction-details-notes.png
+        ├── project-record-tracker.png
+        └── field-verification-checklist.png
 ```
 
 ## Final Report
